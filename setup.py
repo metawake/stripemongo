@@ -4,7 +4,7 @@ from setuptools import setup
 setup(
     name='StripeMongo',
     version='0.5.0',
-    author='Alex Alexapolksy',
+    author='Alex Alexapolsky',
     author_email='newsforfun@gmail.com',
     packages=['stripemongo'],
     url='http://pypi.python.org/pypi/StripeMongo/',

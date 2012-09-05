@@ -29,4 +29,8 @@ or defaults will be used:
 	MONGO_HOSTNAME = localhost'
 	MONGO_PORT = 27017
 
+Also, naturally, an account at Stripe.com is needed, where
+you would configure your app's url for incoming http requests.
 
+Package contains a sample Django app in demo folder, all you need
+is Stripe account and external domain(or use proxy like pagekite for Stripe requests).
